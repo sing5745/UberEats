@@ -7,7 +7,7 @@ which checks the user and send email when they forget the password.
 
 
 index.html
-+![home page](https://github.com/sing5745/UberEats/raw/master/index.png)
++![home page](https://github.com/sing5745/UberEats/raw/master/index.PNG)
 
 
 //To Do's
