@@ -13,7 +13,7 @@ McDonald's
 ![mcd page](https://github.com/sing5745/UberEats/raw/master/mcd.PNG)
 
 Register Page
-![mcd page](https://github.com/sing5745/UberEats/raw/master/reciept.PNG)
+![mcd page](https://github.com/sing5745/UberEats/raw/master/register.PNG)
 
 Login Page
 ![login](https://github.com/sing5745/UberEats/raw/master/login.PNG)
@@ -22,8 +22,11 @@ Confirm Page
 ![confirm](https://github.com/sing5745/UberEats/raw/master/confirm.PNG)
 
 Reciept Page
-![reciept](https://github.com/sing5745/UberEats/raw/master/reciept.PNG)
+![reciept](https://github.com/sing5745/UberEats/raw/master//reciept_.PNG)
 
 
 //To Do's
-Fix some part of the code
+1. Fix some part of the code
+2. Work On popeyes store
+3. When forgot password and sends email twice insertion of the username and password in database
+
